@@ -1,0 +1,7 @@
+#mainButton{
+    background-color: blueviolet;
+   padding:5%
+}
+
+
+#mainButton:focus{background-color: rgb(96, 223, 22);}
