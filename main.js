@@ -1,6 +1,6 @@
 const heading1 = document.getElementById("text")
-let name= 'Alexandra is sailing the world';
-heading1.textContent = `Hi ${name}`;
+let name= 'website';
+heading1.textContent = `Rafa's ${name}`;
 Get_firstcharacter(name);
 Get_lastsebas(name);
 Get_NumberOfChars(name);
